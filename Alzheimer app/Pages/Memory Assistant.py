@@ -9,7 +9,7 @@ import pytz
 import base64
 
 # Secure API Key Handling
-genai.configure(api_key="AIzaSyBK9UbwE469e258ebrhPlNxRNv5ywC9AKk")  # Store API key in secrets.toml
+genai.configure(api_key="<API KEY>")  # Store API key in secrets.toml
 
 # Database Setup
 def init_db():
