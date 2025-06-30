@@ -117,13 +117,13 @@ ALZHEIMER_APP/
 ---
 
 Home Page:  
-![Memory Assistant](./Pages/screenshot1.png)
+![Memory Assistant](./assets/screenshot1.png)
 
 Memory Assistant Page:  
-![Memory Assistant](./Pages/screenshot2.png)
+![Memory Assistant](./assets/screenshot2.png)
 
 Reminder Page:  
-![Task Scheduler](./Pages/screenshot3.png)
+![Task Scheduler](./assets/screenshot3.png)
 
 ---
 
